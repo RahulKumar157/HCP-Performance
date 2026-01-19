@@ -8,28 +8,27 @@ The analysis combines Excel-based data preparation with an interactive Power BI 
 
 🎯 Objectives
 
-The main objectives of this project are to:
+- The main objectives of this project are to:
 
-Identify top-performing specialties by enrollment
+- Identify top-performing specialties by enrollment
 
-Analyze HCP experience distribution based on prescription-writing duration
+- Analyze HCP experience distribution based on prescription-writing duration
 
-Understand how experience impacts enrollment behavior
+- Understand how experience impacts enrollment behavior
 
-Compare satisfaction (NPS) between HCP cohorts who started writing prescriptions in 2021 vs 2022
+- Compare satisfaction (NPS) between HCP cohorts who started writing prescriptions in 2021 vs 2022
 
-Highlight cohort-level differences in engagement and performance
+- Highlight cohort-level differences in engagement and performance
 
 📈 Dashboard Highlights
 
-KPI Cards: Total HCPs, Average Enrollment, Average NPS
+- KPI Cards: Total HCPs, Average Enrollment, Average NPS
 
-Top 5 Specialties Bar Chart
+- Top 5 Specialties Bar Chart
 
-HCP Distribution by Rx Duration Bucket
+- HCP Distribution by Rx Duration Bucket
 
-Average Enrollment vs Experience Analysis
+- Average Enrollment vs Experience Analysis
 
-Cohort Comparison (2021 vs 2022) using slicers
+- Cohort Comparison (2021 vs 2022) using slicers
 
-Optional Regional Map using Area Name
